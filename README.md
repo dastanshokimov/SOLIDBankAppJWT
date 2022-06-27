@@ -19,6 +19,5 @@ Technologies applied in the project
 
   * Clone this repository using `git clone https://github.com/dastanshokimov/SOLIDBankAppJWT.git`, and run it with IntelliJ Ultimate Edition
   * Or download this repository as an archive and run it with IntelliJ Ultimate Edition
-  * Or using `java -cp out/artifacts/ src/main/java/` for running it on the command line
 
 ## Swagger test:
